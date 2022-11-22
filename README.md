@@ -1,2 +1,2 @@
 # MomsRecipes
-Mom's Recipes
+A website dedicated to my Mom's Recipes.
