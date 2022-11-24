@@ -1,0 +1,27 @@
+
+
+body{
+    margin: 7%;
+    height: fit-content;
+    width:fit-content;
+    background-image:linear-gradient(to top right, #d17926, #dcdcdc);
+    background-size: 100%;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.header{
+    color:bisque;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Geneva, Tahoma, sans-serif;
+    box-align: center;
+    display: flex;
+    align-items: center;
+}
+
+div.box {
+    background-color:#dcdcdc;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    display: ;
+}
